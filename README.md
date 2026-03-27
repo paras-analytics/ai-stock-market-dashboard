@@ -51,11 +51,11 @@ ________________________________________
 
 ## 📸 Dashboard Preview
 
-### Overview
+### 📊 Overview
 ![Overview](Overview.jpg)
 
-### Comparison
+### 📈 Comparison
 ![Comparison](Comparison.jpg)
 
-### AI Insights
-![AI Insights](Ai_insight.jpg)
+### 🤖 AI Insights
+![AI Insights](AI_insight.jpg)
