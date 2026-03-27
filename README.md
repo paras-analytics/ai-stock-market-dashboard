@@ -55,7 +55,7 @@ ________________________________________
 ![Overview](Overview.jpg)
 
 ### Comparison
-![Comparison](comparison.jpg)
+![Comparison](Comparison.jpg)
 
 ### AI Insights
-![AI Insights](ai_insight.jpg)
+![AI Insights](Ai_insight.jpg)
