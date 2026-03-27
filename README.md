@@ -52,10 +52,10 @@ ________________________________________
 ## 📸 Dashboard Preview
 
 ### Overview
-![Overview](Overview.png)
+![Overview](Overview.jpg)
 
 ### Comparison
-![Comparison](comparison.png)
+![Comparison](comparison.jpg)
 
 ### AI Insights
-![AI Insights](ai_insight.png)
+![AI Insights](ai_insight.jpg)
