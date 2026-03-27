@@ -51,11 +51,8 @@ ________________________________________
 
 ## 📸 Dashboard Preview
 
-### 📊 Overview
-![Overview](Overview.jpg)
+![Overview](https://raw.githubusercontent.com/paras-analytics/ai-stock-market-dashboard/main/Overview.JPG)
 
-### 📈 Comparison
-![Comparison](Comparison.jpg)
+![Comparison](https://raw.githubusercontent.com/paras-analytics/ai-stock-market-dashboard/main/Comparison.JPG)
 
-### 🤖 AI Insights
-![AI Insights](AI_insight.jpg)
+![AI Insights](https://raw.githubusercontent.com/paras-analytics/ai-stock-market-dashboard/main/AI_insight.JPG)
