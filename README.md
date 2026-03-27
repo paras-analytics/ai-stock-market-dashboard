@@ -49,3 +49,13 @@ ________________________________________
 
 •	Using AI features in Power BI
 
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](Overview.png)
+
+### Comparison
+![Comparison](comparison.png)
+
+### AI Insights
+![AI Insights](ai_insight.png)
